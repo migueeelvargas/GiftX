@@ -28,6 +28,7 @@ We know not every one gets along during a gift exchange. Maybe there's a co-work
 ####Developer Team:
 + Kevin Chu
 + Kevin Cheng
++ Arthur de Jesus
 + Michael Khorram
 + Kyle Sherman
 + Miguel Vargas
